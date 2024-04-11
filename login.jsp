@@ -1,3 +1,10 @@
-this is a login page
-for irctc dir
+[200~<!DOCTYPE html>
+<html>
+	<body>
+
+		<h1>My First Heading</h1>
+		<p>My first paragraph.</p>
+
+	</body>
+</html>
 
